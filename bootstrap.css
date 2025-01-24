@@ -1,0 +1,24 @@
+body {
+    background-color: #f4f2f2;
+    color: #201010;
+  }
+  .section {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    padding: 2rem 0;
+  }
+  .navbar {
+    background-color: #f4f3f3 !important;
+  }
+  .navbar-light .navbar-brand,
+  .navbar-light .navbar-nav .nav-link {
+    color: #150303;
+  }
+  .card {
+    background-color: #f4f3f3;
+    color: #0f0808;
+  }
+  .bg-dark-section {
+    background-color: #1a1a1a;
+  }
